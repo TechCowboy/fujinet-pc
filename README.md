@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS NO LONGER USED, AS ITS CODE HAS BEEN FOLDED INTO the [fujinet-firmware](https://github.com/FujiNetWIFI/fujinet-firmware) REPOSITORY.
+
 FujiNet-PC   
 ===========
 
